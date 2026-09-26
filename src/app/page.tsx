@@ -1,12 +1,13 @@
-import Banner from '@/components/homepage/Banner';
-import React from 'react';
+import Banner from "@/components/homepage/Banner";
+import Library from "@/components/homepage/Library";
 
-const page = () => {
+const Page = () => {
   return (
     <div>
       <Banner />
+      <Library />
     </div>
   );
 };
 
-export default page;
+export default Page;
