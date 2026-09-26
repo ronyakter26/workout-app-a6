@@ -58,8 +58,10 @@ const Library = () => {
   }, []);
 
   return (
-    <section className="container mx-auto px-4 py-16 md:px-6 lg:px-0">
-      {/* Heading */}
+    <section
+  id="library"
+  className="container mx-auto px-4 py-16 md:px-6 lg:px-0"
+>
       <div className="mb-8">
         <h2
           className={`${oswald.className} text-4xl font-bold uppercase text-white md:text-5xl`}
