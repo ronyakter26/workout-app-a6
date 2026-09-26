@@ -8,7 +8,7 @@ A responsive workout application built with Next.js. Users can browse workouts, 
 - React
 - TypeScript
 - Tailwind CSS
-- Lucide React
+- lucide react
 - REST API
 
 ## Key Features
