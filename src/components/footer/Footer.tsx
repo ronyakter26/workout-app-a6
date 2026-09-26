@@ -14,6 +14,6 @@ export default function Footer() {
           © 2026 FitLog — Workout Library. Train hard, log honest.
         </p>
       </div>
-    </footer>
+      </footer>
   );
 }
