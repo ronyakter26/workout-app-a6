@@ -10,7 +10,17 @@ A responsive workout application built with Next.js. Users can browse workouts, 
 - Tailwind CSS
 - lucide react
 - REST API
+- 
+## Dependencies
 
+- Next.js
+- React
+- React DOM
+- Lucide React
+- React Hot Toast
+- Tailwind CSS
+- DaisyUI
+- TypeScript
 ## Key Features
 
 1. **Workout Library** — Browse available workouts and their information.
