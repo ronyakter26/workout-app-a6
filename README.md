@@ -1,6 +1,8 @@
 # Workout App
 
 A responsive workout application built with Next.js. Users can browse workouts, view workout details, and manage their personal workout plan.
+## 🌐 Live Website
+https://workout-app-a6.vercel.app/
 
 ## Technologies Used
 
