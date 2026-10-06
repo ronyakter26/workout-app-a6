@@ -46,6 +46,11 @@ https://api.abcz.workers.dev/api/fitlog
 
 https://api.abcz.workers.dev/api/fitlog/:id
 
+📱 Responsive Design
+The application is designed to provide a smooth experience across:
+- Mobile devices
+- Tablets
+- Desktop devices
 ## 💻 Run Locally
 
 Follow these steps to run the project on your local machine.
