@@ -31,6 +31,55 @@ https://workout-app-a6.vercel.app/
 4. **Saved Workouts** — Save workouts for quick access later.
 5. **Responsive Design** — Works smoothly on desktop, tablet, and mobile devices.
 
+ API
+
+The workout data is loaded from the following API:
+
+Workout List
+
+https://api.abcz.workers.dev/api/fitlog
+
+Workout Details
+
+https://api.abcz.workers.dev/api/fitlog/:id
+How to Run Locally
+
+Follow these steps to run the project on your local machine.
+
+1. Clone the repository
+
+git clone https://github.com/ronyakter26/workout-app-a6.git
+
+2. Go to the project directory
+cd workout-app-a6
+3. Install dependencies
+
+npm install
+
+4. Start the development server
+
+npm run dev
+5. Open the project
+
+Open your browser and visit:
+
+http://localhost:3000
+Responsive Design
+
+The application is designed to provide a smooth experience across:
+
+Mobile devices
+
+Tablets
+
+Desktop devices
+
+Relevant Links
+
+Live Website: https://workout-app-a6.vercel.app/
+
+GitHub Repository: https://github.com/ronyakter26/workout-app-a6
+
 ## Getting Started
 
 Install the dependencies:
