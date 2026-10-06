@@ -1,19 +1,31 @@
 # Workout App
 
-A responsive workout application built with Next.js. Users can browse workouts, view workout details, and manage their personal workout plan.
+A responsive workout application built with Next.js, React, TypeScript, and Tailwind CSS. Users can browse workouts, view workout details, create a personal workout plan, and save workouts for quick access.
+
 ## 🌐 Live Website
+
 https://workout-app-a6.vercel.app/
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - Next.js
 - React
 - TypeScript
 - Tailwind CSS
-- lucide react
+- DaisyUI
+- Lucide React
 - REST API
-- 
-## Dependencies
+
+## ✨ Key Features
+
+- **Workout Library** — Browse available workouts and their information.
+- **Workout Details** — View detailed information about each workout.
+- **My Plan** — Add workouts to a personal workout plan.
+- **Saved Workouts** — Save workouts for quick access later.
+- **Responsive Design** — Works smoothly on mobile, tablet, and desktop devices.
+- **API Integration** — Workout data is loaded dynamically from a REST API.
+
+## 📦 Dependencies
 
 - Next.js
 - React
@@ -23,71 +35,27 @@ https://workout-app-a6.vercel.app/
 - Tailwind CSS
 - DaisyUI
 - TypeScript
-## Key Features
 
-1. **Workout Library** — Browse available workouts and their information.
-2. **Workout Details** — View detailed information about each workout.
-3. **My Plan** — Add workouts to a personal workout plan.
-4. **Saved Workouts** — Save workouts for quick access later.
-5. **Responsive Design** — Works smoothly on desktop, tablet, and mobile devices.
+## 🔗 API
 
- API
-
-The workout data is loaded from the following API:
-
-Workout List
+### Workout List
 
 https://api.abcz.workers.dev/api/fitlog
 
-Workout Details
+### Workout Details
 
 https://api.abcz.workers.dev/api/fitlog/:id
-How to Run Locally
+
+## 💻 Run Locally
 
 Follow these steps to run the project on your local machine.
 
-1. Clone the repository
+### 1. Clone the repository
 
+```bash
 git clone https://github.com/ronyakter26/workout-app-a6.git
-
-2. Go to the project directory
-cd workout-app-a6
-3. Install dependencies
-
-npm install
-
-4. Start the development server
-
-npm run dev
-5. Open the project
-
-Open your browser and visit:
-
-http://localhost:3000
-Responsive Design
-
+📱 Responsive Design
 The application is designed to provide a smooth experience across:
-
-Mobile devices
-
-Tablets
-
-Desktop devices
-
-Relevant Links
-
-Live Website: https://workout-app-a6.vercel.app/
-
-GitHub Repository: https://github.com/ronyakter26/workout-app-a6
-
-## Getting Started
-
-Install the dependencies:
-
-npm install
-
-Run the development server:
-
-npm run dev
-
-Open `http://localhost:3000` in your browser.
+- Mobile devices
+- Tablets
+- Desktop devices
